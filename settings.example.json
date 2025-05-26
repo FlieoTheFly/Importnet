@@ -3,7 +3,7 @@
     "public": {
       "char_limit": 99999999999999999999999999999999999999999999999999999999999999999999999999999999999999,
       "name_limit": 99999999999999999999999999999999999999999999999999999999999999999999999999999999999999,
-      "godword": null,
+      "godword": "Xin chào các bạn, Defunct Alarm" ,
       "runlevel": {
         "godmode": 0,
         "youtube": 0,
@@ -37,7 +37,7 @@
         "min": 125,
         "default": "random"
       },
-      "defaultName": "Anonymous"
+      "defaultName": "Engineer Main"
     },
     "private": {
       "char_limit": 99999999999999999999999999999999999999999999999999999999999999999999999999999999999999,
